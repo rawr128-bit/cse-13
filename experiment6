@@ -54,7 +54,7 @@ input {
 padding: 8px;
 width: 250px;
 }
-main.js
+
 let heading = document.getElementById("mainHeading");
 let paragraph = document.getElementById("paragraph");
 let input = document.getElementById("userInput");
