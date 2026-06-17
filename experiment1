@@ -10,7 +10,7 @@ header{
 background-color:#0d6efd;
 color:white;
 text-align:center;
-padding:15px;
+padding:25px;
 }
 
 footer{
