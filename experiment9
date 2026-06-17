@@ -6,7 +6,7 @@ const [email, setEmail] = useState("")
 const [password, setPassword] = useState("") 
 function showData() { 
 if(name === "" || email === "" || password === ""){ 
-      alert("Please Fill All Fields") 
+      alert("Please Fill All Required Fields") 
     } 
     else{ 
       alert("Registered Successfully") 
