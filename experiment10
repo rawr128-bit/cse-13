@@ -11,7 +11,7 @@ abstract class BankAccount {
 
         this.accountNumber = accountNumber;
         this.accountHolderName = accountHolderName;
-        this.balance = balance;
+        this.balance= balance;
 
     }
 
